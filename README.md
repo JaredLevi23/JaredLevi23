@@ -1,18 +1,25 @@
-# 👋 ¡Hola! Soy Jared Levi
+# Jared Levi
 
-Desarrollador Full Stack apasionado por crear soluciones eficientes y elegantes.  
-Amante de Python, JavaScript y la automatización.
+Desarrollador apasionado por crear soluciones eficientes y elegantes de cualquier cosa del mundo. 
+Amante de Flutter, Dart, Python, JavaScript y la automatización.
 
-## 🚀 Proyectos destacados
-- [Proyecto A](https://github.com/JaredLevi23/proyecto-a): Herramienta para automatizar tareas.
-- [Proyecto B](https://github.com/JaredLevi23/proyecto-b): API RESTful con Node.js y Express.
+## 🚀 Proyectos
+- Flutter | Red Social 
+- Flutter | Aplicación de deportes
+- Flutter | Aplicación Dispositivo médico CheckmePRO BLE
+- Kotlin  | Swift  | TODO List App
+- NodeJS  | Base CRUD API JWT TSC
+- Flask   | Base CRUD API JWT Python
+- Angular | Consola de Apis TSC
+
+## Librerias 
+- Pubdev: [Billpocket Terminal](https://pub.dev/packages/flutter_billpocket)
 
 ## 🛠️ Tecnologías
-- Python | JavaScript | TypeScript | React | Node.js | Docker
+- Python | JavaScript | TypeScript | Dart | Flutter | Flask | Angular | Node.js | Docker | K8S
 
 ## 📫 Contacto
-- Email: jaredlevi23@email.com
-- LinkedIn: [linkedin.com/in/jaredlevi23](https://linkedin.com/in/jaredlevi23)
+- LinkedIn: [Perfil de Linkedin](https://www.linkedin.com/in/jared-levi-gonz%C3%A1lez-ayala-2a614a228/)
 
 ---
 
