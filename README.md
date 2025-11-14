@@ -5,7 +5,7 @@ Amante de Flutter, Dart, Python, JavaScript y la automatización.
 
 ## 🚀 Proyectos
 - Flutter | Red Social 
-- Flutter | Aplicación de deportes
+- Flutter | [Aplicacion Deportes ](https://github.com/JaredLevi23/SportsApp)
 - Flutter | Aplicación Dispositivo médico CheckmePRO BLE
 - Kotlin  | Swift  | TODO List App
 - NodeJS  | Base CRUD API JWT TSC
