@@ -4,7 +4,7 @@ Desarrollador apasionado por crear soluciones eficientes y elegantes de cualquie
 Amante de Flutter, Dart, Python, JavaScript y la automatización.
 
 ## 🚀 Proyectos
-- Flutter | Red Social 
+- Flutter | [Red Social](https://github.com/JaredLevi23/social_network_app)
 - Flutter | [Aplicacion Deportes ](https://github.com/JaredLevi23/SportsApp)
 - Flutter | [Aplicación Dispositivo médico CheckmePRO BLE](https://github.com/JaredLevi23/checkme_pro)
 - Kotlin  | Swift  | TODO List App
